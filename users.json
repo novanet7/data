@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "$2a$10$4pPENu1gn9354XDJb4i1m.GUxZa0ws3E/Vcr3.Mbxonnm9YqC75hS",
+    "isAdmin": true,
+    "subscription": {
+      "active": true,
+      "startDate": "2026-08-15T02:22:09.120Z",
+      "endDate": "2027-08-15T02:22:09.121Z"
+    }
+  }
+]
