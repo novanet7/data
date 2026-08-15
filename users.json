@@ -21,5 +21,16 @@
       "endDate": "2026-09-14T03:03:01.710Z",
       "transactionId": "NOV-4e5e63a4-d966-47f1-a844-d6581c7ec200"
     }
+  },
+  {
+    "id": 930798,
+    "username": "nova",
+    "password": "$2a$10$ZIfnVBrbTXDjKqDCAcVxceTiZiJYvyfqhAcrpDLOpDjyM/9vHSEv2",
+    "isAdmin": false,
+    "subscription": {
+      "active": false,
+      "startDate": "",
+      "endDate": ""
+    }
   }
 ]
