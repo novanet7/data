@@ -9,5 +9,16 @@
       "startDate": "2026-08-15T02:22:09.120Z",
       "endDate": "2027-08-15T02:22:09.121Z"
     }
+  },
+  {
+    "id": 337640,
+    "username": "novanet",
+    "password": "$2a$10$LpGmzdUO5Z.bsJyRWHTvFufQENDcoeIIRtEFyW5uhJd7cI49oo1ia",
+    "isAdmin": false,
+    "subscription": {
+      "active": false,
+      "startDate": "",
+      "endDate": ""
+    }
   }
 ]
