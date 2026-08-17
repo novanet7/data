@@ -21,5 +21,16 @@
       "endDate": "2026-09-14T03:19:56.561Z",
       "transactionId": "NOV-cde0ec7b-d878-470c-a78e-5907a7b27790"
     }
+  },
+  {
+    "id": 205894,
+    "username": "novanet",
+    "password": "$2a$10$zvqamKPEv.ISmxVu2/lW7eLjL6pGR5SsPWZVrvRG/idTy/bV49QN6",
+    "isAdmin": false,
+    "subscription": {
+      "active": false,
+      "startDate": "",
+      "endDate": ""
+    }
   }
 ]
