@@ -1,0 +1,21 @@
+{
+  "id": 5792,
+  "email": "dimzzyxd@gmail.com",
+  "name": "dimzzyxd",
+  "password": null,
+  "bio": "",
+  "photo": "/avatars/5792_1786952399055_7b5307bd.jpg",
+  "googleId": "117021521127528751686",
+  "role": "user",
+  "createdAt": "2026-08-17T07:39:59.056Z",
+  "purchasedPanels": [],
+  "pterodactylUserId": null,
+  "balance": 0,
+  "coupon": {
+    "code": "NEW20_5792_HSKUG2XC",
+    "used": false,
+    "discountPercent": 20,
+    "createdAt": "2026-08-17T07:39:59.056Z"
+  },
+  "activeSessionId": null
+}
