@@ -1,0 +1,20 @@
+{
+  "id": 2157,
+  "email": "yamocuki43@gmail.com",
+  "name": "Yamo Cuki",
+  "password": null,
+  "bio": "",
+  "photo": "/avatars/2157_1786790057528_4ccf9d12.jpg",
+  "googleId": "102220797162442882792",
+  "role": "user",
+  "createdAt": "2026-08-15T10:34:17.531Z",
+  "purchasedPanels": [],
+  "pterodactylUserId": null,
+  "coupon": {
+    "code": "NEW20_2157_MXV35SKO",
+    "used": true,
+    "discountPercent": 20,
+    "createdAt": "2026-08-15T10:34:17.531Z",
+    "usedAt": "2026-08-15T10:35:47.161Z"
+  }
+}
