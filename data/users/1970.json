@@ -1,0 +1,38 @@
+{
+  "id": 1970,
+  "email": "dimzzysilence@gmail.com",
+  "name": "Dimzzy Silence",
+  "password": null,
+  "bio": "",
+  "photo": "/avatars/1970_1786952367240_6d727992.jpg",
+  "googleId": "109458189770121963169",
+  "role": "user",
+  "createdAt": "2026-08-17T07:39:27.263Z",
+  "purchasedPanels": [
+    {
+      "order_id": "ORDER_1786961218524_03143ED26AF28E06160C91EA",
+      "panel_type": "10gb",
+      "server_id": "86c35694",
+      "management_url": "/server/86c35694",
+      "username": "dimzzysilence",
+      "password": "ZSuk2iwD",
+      "created_at": "2026-08-17T10:06:58.534Z",
+      "server_name": "dimzzysilence",
+      "node_version": "24",
+      "created_by": "novanet403@gmail.com",
+      "ram": "10240 MB",
+      "disk": "-",
+      "cpu": "2.2 core"
+    }
+  ],
+  "pterodactylUserId": null,
+  "balance": 0,
+  "coupon": {
+    "code": "NEW20_1970_F3VMFBYY",
+    "used": false,
+    "discountPercent": 20,
+    "createdAt": "2026-08-17T07:39:27.263Z",
+    "usedAt": null
+  },
+  "activeSessionId": null
+}
