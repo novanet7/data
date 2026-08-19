@@ -1,0 +1,41 @@
+[
+  {
+    "userId": "8559",
+    "endpoint": "https://fcm.googleapis.com/fcm/send/eyfGv-CMGUM:APA91bEMPnISOWpBMPSAP0uZmn6j-I_THil1UHda0Ze2enI093GLc-5xGNVmM7bJR7qsUtoOC8JJcpd3ERZ6yWMgzHDWfuyFOanEsh5LmKDps9P0Ux4OZeX2sHmmfGyxBm4jlSEdkyMY",
+    "subscription": {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/eyfGv-CMGUM:APA91bEMPnISOWpBMPSAP0uZmn6j-I_THil1UHda0Ze2enI093GLc-5xGNVmM7bJR7qsUtoOC8JJcpd3ERZ6yWMgzHDWfuyFOanEsh5LmKDps9P0Ux4OZeX2sHmmfGyxBm4jlSEdkyMY",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BGX85QvMMcBBk5SMZBfe0OmKf-QHyCLWxEoVhIuDikyBPqeHDXUzAfVhhCjCNRT3k0lCdKUiM0CafhixEXTB4PQ",
+        "auth": "lDnDMykVTLH-oU5FBs16Rg"
+      }
+    },
+    "updatedAt": 1786991487191
+  },
+  {
+    "userId": "1701",
+    "endpoint": "https://fcm.googleapis.com/fcm/send/eoYebHDLHms:APA91bFO1U8AASX4gaaew9nZRSlNqH7qy4ZoTgNIMMDSfeeio_ji9MoH_FHN-GbP2Y0R7il3PhgnCK1Zh1fItltJnsVwz1zfEppiWnGF1uEOG5WbYzraX00SQLh6P7oDhmKLDN_JP2i6",
+    "subscription": {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/eoYebHDLHms:APA91bFO1U8AASX4gaaew9nZRSlNqH7qy4ZoTgNIMMDSfeeio_ji9MoH_FHN-GbP2Y0R7il3PhgnCK1Zh1fItltJnsVwz1zfEppiWnGF1uEOG5WbYzraX00SQLh6P7oDhmKLDN_JP2i6",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BBiz0Kz2obtX50VHL44gYOPq_78qCEwHKB26AptdqkRVVgZrY7DQW2UE2wgG1V_5BeUia3VAlcGij3UgeYRMvvA",
+        "auth": "N91tqNF77bzVnJ7oyIZvYg"
+      }
+    },
+    "updatedAt": 1786946227969
+  },
+  {
+    "userId": "4175",
+    "endpoint": "https://fcm.googleapis.com/fcm/send/fdWnvyHzg1w:APA91bE1Nnv4g8uvH11OPF_-7h9wZeJ2MDR32Gv8o9i0kPTp9fsDhxqdvx47ko8gkd1q3H2yS36dYE467b9UAcBiURC1z7PfXhIRQSOu6gpucXNBZRX9US9yFz2OiLNLucOw6tQkfk2t",
+    "subscription": {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/fdWnvyHzg1w:APA91bE1Nnv4g8uvH11OPF_-7h9wZeJ2MDR32Gv8o9i0kPTp9fsDhxqdvx47ko8gkd1q3H2yS36dYE467b9UAcBiURC1z7PfXhIRQSOu6gpucXNBZRX9US9yFz2OiLNLucOw6tQkfk2t",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BJkCHaSTNCd3kzGcsDwb1YEMe0GWgfsgvP43hiTjXPLGT9Tg-rfzfmPvefAwSQdbWD5LWSWfRSiF9oOo27FR3g0",
+        "auth": "qXcwq6AxTmA_aWNUhMu4LQ"
+      }
+    },
+    "updatedAt": 1786802199632
+  }
+]
