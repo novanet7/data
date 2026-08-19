@@ -1,0 +1,62 @@
+[
+  {
+    "id": "67687f900e622408",
+    "userId": 4175,
+    "type": "topup",
+    "amount": 20000,
+    "balanceAfter": 20000,
+    "note": "Top up saldo via QRIS",
+    "orderId": "ORDER_1786849129480_0AA2717AE28F6639D8228455",
+    "created_at": "2026-08-16T02:59:06.786Z"
+  },
+  {
+    "id": "2d13ef9af0c57d54",
+    "userId": 4175,
+    "type": "purchase",
+    "amount": 2000,
+    "balanceAfter": 18000,
+    "note": "Beli Server 1GB",
+    "orderId": "ORDER_1786849281600_854DC0F3064D4795F4E40669",
+    "created_at": "2026-08-16T03:01:21.613Z"
+  },
+  {
+    "id": "030a1ec3678b3a54",
+    "userId": 4175,
+    "type": "topup",
+    "amount": 1000000,
+    "balanceAfter": 1018000,
+    "note": "Top up saldo via QRIS",
+    "orderId": "ORDER_1786849104515_F1333DE6F4888383C83F4B05",
+    "created_at": "2026-08-16T03:02:52.897Z"
+  },
+  {
+    "id": "0e04bdf289fc1b9d",
+    "userId": 5357,
+    "type": "topup",
+    "amount": 20000,
+    "balanceAfter": 20000,
+    "note": "Top up saldo via QRIS",
+    "orderId": "ORDER_1786896459451_A1B7879B6DB297890571A317",
+    "created_at": "2026-08-16T16:07:58.916Z"
+  },
+  {
+    "id": "6cc7055f518ccc36",
+    "userId": 8559,
+    "type": "topup",
+    "amount": 750000,
+    "balanceAfter": 750000,
+    "note": "Top up saldo via QRIS",
+    "orderId": "ORDER_1786910243139_93362CCE35CBEE0A68AABE09",
+    "created_at": "2026-08-16T20:00:28.926Z"
+  },
+  {
+    "id": "807fc4582c6cec9b",
+    "userId": 8559,
+    "type": "purchase",
+    "amount": 18000,
+    "balanceAfter": 732000,
+    "note": "Beli Server UNLI",
+    "orderId": "ORDER_1786968688455_9BCE6D8F768397E230F54286",
+    "created_at": "2026-08-17T12:11:28.482Z"
+  }
+]
