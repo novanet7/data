@@ -1,0 +1,91 @@
+{
+  "isPanelOpen": true,
+  "isAdminPanelOpen": true,
+  "isMuridPanelOpen": true,
+  "scripts": [],
+  "apps": [
+    {
+      "nama": "DO 10 DROP VCC LOW",
+      "harga": 75000,
+      "deskripsi": "DO LOW AWET",
+      "accounts": [
+        {
+          "user": "akundo",
+          "pass": "minta ke admin",
+          "link": "pm admin",
+          "desc": "segera"
+        },
+        {
+          "user": "akundo",
+          "pass": "minta ke admin",
+          "link": "pm admin",
+          "desc": "segera"
+        }
+      ]
+    },
+    {
+      "nama": "DO 10 DROP VCC STANDAR",
+      "harga": 100000,
+      "deskripsi": "DO SUPER AWET",
+      "accounts": [
+        {
+          "user": "akundo",
+          "pass": "minta ke admin",
+          "link": "pm admin",
+          "desc": "segera"
+        },
+        {
+          "user": "akundo",
+          "pass": "minta ke admin",
+          "link": "pm admin",
+          "desc": "segera"
+        }
+      ]
+    },
+    {
+      "nama": "DO 3 DROP VCC",
+      "harga": 30000,
+      "deskripsi": "PROVIDER PREMIUM",
+      "accounts": []
+    },
+    {
+      "nama": "DO 10 DROP PAYPAL",
+      "harga": 190000,
+      "deskripsi": "PROVIDER PREMIUM",
+      "accounts": []
+    },
+    {
+      "nama": "DO 3 DROP PAYPAL",
+      "harga": 55000,
+      "deskripsi": "PROVIDER PREMIUM",
+      "accounts": []
+    },
+    {
+      "nama": "AKUN PAYMENT GATEWAY",
+      "harga": 35000,
+      "deskripsi": "FULL AKSES PREMIUM",
+      "accounts": []
+    },
+    {
+      "nama": "FATNER PRIBADI",
+      "harga": 30000,
+      "deskripsi": "t.me/testikurafatharcode/125",
+      "accounts": [
+        {
+          "user": "KEUNTUNGAN",
+          "pass": "https://www.mediafire.com/file/3lkwmk7ikubd8us/FATNER_PRIBADI_VVIP.zip/file",
+          "link": "https://t.me/+iYB0WQ4Tzz4yM2Jl",
+          "desc": "FATNER PRIBADI"
+        },
+        {
+          "user": "KEUNTUNGAN",
+          "pass": "https://www.mediafire.com/file/3lkwmk7ikubd8us/FATNER_PRIBADI_VVIP.zip/file",
+          "link": "https://t.me/+iYB0WQ4Tzz4yM2Jl",
+          "desc": "FATNER PRIBADI"
+        }
+      ]
+    }
+  ],
+  "paymentMethod": "atlantic",
+  "maintenanceMode": false
+}
