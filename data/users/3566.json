@@ -1,0 +1,37 @@
+{
+  "id": 3566,
+  "email": "arebdg5@gmail.com",
+  "name": "Arebdg",
+  "password": null,
+  "bio": "",
+  "photo": "/avatars/3566_1786990507805_7106a024.png",
+  "googleId": "117126941786226566962",
+  "role": "user",
+  "createdAt": "2026-08-17T18:15:07.834Z",
+  "purchasedPanels": [
+    {
+      "order_id": "ORDER_1786990545660_06E71A87A84128D246F78AEF",
+      "panel_type": "5gb",
+      "server_id": "5a465218",
+      "management_url": "/server/5a465218",
+      "username": "arebdg5",
+      "password": "b4EgKJAS",
+      "created_at": "2026-08-17T18:16:53.258Z",
+      "server_name": "Server 5a465218",
+      "node_version": "20",
+      "ram": "5120 MB",
+      "disk": "-",
+      "cpu": "1.2 core"
+    }
+  ],
+  "pterodactylUserId": null,
+  "balance": 0,
+  "coupon": {
+    "code": "NEW20_3566_KN2KUSY1",
+    "used": true,
+    "discountPercent": 20,
+    "createdAt": "2026-08-17T18:15:07.834Z",
+    "usedAt": "2026-08-17T18:15:45.658Z"
+  },
+  "activeSessionId": null
+}
