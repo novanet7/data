@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log*
+.env
+.git
+.gitignore
+logs/*
+uploads/*
+data/*.json
+data/sessions/*
+data/seller_sessions/*
