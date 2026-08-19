@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "telegram_id": "5032271490",
+      "role": "owner",
+      "enabled": 1,
+      "expires_at": null,
+      "created_at": 1786996048
+    }
+  ],
+  "accounts": [],
+  "keywords": [
+    {
+      "id": 1,
+      "owner_id": "5032271490",
+      "target_id": null,
+      "word": "Bikin bot",
+      "comment": "Hmu",
+      "enabled": 1,
+      "created_at": 1786996064
+    }
+  ],
+  "targets": [],
+  "logs": [],
+  "sender": {},
+  "sent": [],
+  "meta": {},
+  "jaseb": {}
+}
