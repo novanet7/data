@@ -1,0 +1,52 @@
+{
+  "id": 8559,
+  "email": "novanet403@gmail.com",
+  "name": "admin nova",
+  "password": null,
+  "bio": "",
+  "photo": "/avatars/8559_1786909559961_985f8843.jpg",
+  "googleId": "105277321131206133402",
+  "role": "admin",
+  "createdAt": "2026-08-16T19:45:59.962Z",
+  "purchasedPanels": [
+    {
+      "order_id": "ORDER_1786961218524_03143ED26AF28E06160C91EA",
+      "panel_type": "10gb",
+      "server_id": "86c35694",
+      "management_url": "/server/86c35694",
+      "username": "dimzzysilence",
+      "password": "ZSuk2iwD",
+      "created_at": "2026-08-17T10:06:58.530Z",
+      "server_name": "dimzzysilence",
+      "node_version": "24",
+      "target_email": "dimzzysilence@gmail.com",
+      "created_by": "novanet403@gmail.com",
+      "ram": "10240 MB",
+      "disk": "-",
+      "cpu": "2.2 core"
+    },
+    {
+      "order_id": "ORDER_1786968688455_9BCE6D8F768397E230F54286",
+      "panel_type": "unli",
+      "server_id": "b9da41bf",
+      "management_url": "/server/b9da41bf",
+      "username": "novanet403",
+      "password": "4Wwg0nJt",
+      "created_at": "2026-08-17T12:11:38.780Z",
+      "server_name": "Server b9da41bf",
+      "node_version": "20",
+      "ram": "16384 MB",
+      "disk": "-",
+      "cpu": "4 core"
+    }
+  ],
+  "pterodactylUserId": null,
+  "balance": 732000,
+  "coupon": {
+    "code": "NEW20_8559_6C2SJTWM",
+    "used": false,
+    "discountPercent": 20,
+    "createdAt": "2026-08-16T19:45:59.962Z"
+  },
+  "activeSessionId": null
+}
