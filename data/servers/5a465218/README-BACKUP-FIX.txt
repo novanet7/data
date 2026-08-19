@@ -1,1 +1,0 @@
-Backup critical events no longer wait for the 30s ready timeout. forceBackup sends immediately once SaaS bot/database/tenant manager are initialized. Automatic queued backups still flush on markReady().
