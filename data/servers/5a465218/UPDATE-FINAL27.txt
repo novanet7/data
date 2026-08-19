@@ -1,6 +1,0 @@
-FINAL 27
-- Admin Tenant/Refresh is strictly read-only and only reads live tenant status.
-- Fixed intentional stop race so an explicit stop is not misclassified as a crash/auto-restart.
-- No callback refresh path stops, restarts, or mutates tenant processes.
-- Existing global close/open store controls are preserved.
-- No data, .env, sessions, or runtime files included.

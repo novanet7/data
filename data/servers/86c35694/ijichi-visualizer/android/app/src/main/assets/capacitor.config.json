@@ -1,9 +1,0 @@
-{
-	"appId": "com.d4r.ijichivisualizer",
-	"appName": "Ijichi Visualizer",
-	"webDir": "www",
-	"backgroundColor": "#0d0d0f",
-	"android": {
-		"allowMixedContent": false
-	}
-}
