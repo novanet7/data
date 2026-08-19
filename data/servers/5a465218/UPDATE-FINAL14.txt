@@ -1,0 +1,7 @@
+UPDATE: SaaS Welcome + Broadcast
+
+- Removed the rotating Premium Emoji timer from SaaS Home.
+- SaaS Home is back to a static layout.
+- Added simple divider lines to the welcome block for a cleaner look.
+- SaaS Admin Broadcast remains available.
+- No changes to Archive, Premium, Jaseb, Tagall, Auto Comment logic, checkout, FS/NFS, or Premium Emoji bridge.
