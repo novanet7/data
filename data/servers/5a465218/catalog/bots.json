@@ -1,0 +1,6 @@
+[
+  {"id":"premium-store","name":"Premium Store","source":"telegram-auto-premium-store-v11-store-settings","description":"Bot auto order / store premium dengan logic stok, order, saldo, QRIS dan pengaturan store."},
+  {"id":"auto-comment-jaseb","name":"Auto Comment + Jaseb","source":"telegram-auto-comment-v34-jaseb-startup-fixed-no-wrapper","description":"Bot Auto Comment + Jaseb/Jasa Sebar dengan akun Telegram user dan flow aslinya."},
+  {"id":"tagall","name":"Raxi Tagall","source":"raxi-tagall-nodejs-full-audited-startup-final-no-wrapper","description":"Bot Tagall otomatis, queue, partner, assistant, sync dan welcome/group settings."},
+  {"id":"archive-store","name":"Archive Store","source":"archive","description":"Bot archive/store referensi lengkap dengan QRIS manual, wallet, custom emoji premium dan Telegram Premium."}
+]
