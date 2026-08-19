@@ -1,0 +1,82 @@
+{
+  "users": {
+    "5032271490": {
+      "id": 5032271490,
+      "balance": 0,
+      "createdAt": 1786996041100,
+      "firstName": "𝐑𝐚𝐱𝐢",
+      "username": "rax1xcode",
+      "activeBot": "auto-comment-jaseb"
+    }
+  },
+  "admins": [
+    5032271490
+  ],
+  "plans": {
+    "premium-store": {
+      "price": 0,
+      "durationDays": 30
+    },
+    "auto-comment-jaseb": {
+      "price": 0,
+      "durationDays": 30
+    },
+    "tagall": {
+      "price": 0,
+      "durationDays": 30
+    },
+    "archive-store": {
+      "price": 0,
+      "durationDays": 30
+    }
+  },
+  "purchases": {
+    "PUR-MSXNB2WC-RSL6X": {
+      "id": "PUR-MSXNB2WC-RSL6X",
+      "ownerId": 5032271490,
+      "botType": "auto-comment-jaseb",
+      "price": 0,
+      "token": "8730626310:AAHhZ5vi2UBR8WM4FB147-NFUE9mtwpVoZs",
+      "durationDays": 30,
+      "status": "running",
+      "createdAt": 1786996047468
+    }
+  },
+  "deposits": {},
+  "tenants": {
+    "auto-comment-jaseb:5032271490": {
+      "status": "running",
+      "dir": "/home/container/tenants/auto-comment-jaseb/5032271490",
+      "ownerId": 5032271490,
+      "type": "auto-comment-jaseb",
+      "autostart": true,
+      "pid": 16005,
+      "updatedAt": 1786996047487,
+      "purchaseId": "PUR-MSXNB2WC-RSL6X",
+      "tokenStored": false,
+      "expiresAt": 1789588047487
+    }
+  },
+  "settings": {
+    "storeName": "Telegram SaaS",
+    "welcomeMessage": "👋 Selamat datang! Pilih bot yang ingin kamu gunakan.",
+    "bannerFileId": null,
+    "bannerType": "photo",
+    "bannerCaption": "",
+    "stickerFileId": null,
+    "qrisFileId": null,
+    "qrisCaption": "Scan QRIS lalu kirim bukti pembayaran.",
+    "disabledBots": [],
+    "lastBackup": {
+      "fileId": "BQACAgUAAxkDAAIBZ2qDZVBL8plHTC9Y_9RuqeJ1sA2-AAKkIQACCEAYVD57SEvda6YkPQQ",
+      "fileName": "pending_tenant_created_auto_comment_jaseb_5032271490_20260817_19.zip",
+      "size": 17819,
+      "checksum": "ac3b82c875d50b38fa1c8fa6ebd8124cfc4d2027b3a1dacbc3ad6b1054dd5898",
+      "contentSignature": "f3316ab129ed9d941c747da88170461547cc49fbe39a25d509855e6a859b4adb",
+      "createdAt": 1786996048849,
+      "reason": "tenant-created:auto-comment-jaseb:5032271490",
+      "senderMode": "saas",
+      "senderBotUsername": null
+    }
+  }
+}
