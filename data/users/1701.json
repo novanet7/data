@@ -1,0 +1,19 @@
+{
+  "id": 1701,
+  "email": "seanalindra0107@gmail.com",
+  "name": "sean alindra",
+  "password": null,
+  "bio": "",
+  "photo": "/avatars/1701_1786769274598_835514d9.png",
+  "googleId": "100436163276718727107",
+  "role": "user",
+  "createdAt": "2026-08-15T04:47:54.634Z",
+  "purchasedPanels": [],
+  "pterodactylUserId": null,
+  "coupon": {
+    "code": "NEW20_1701_0ADXZNS1",
+    "used": false,
+    "discountPercent": 20,
+    "createdAt": "2026-08-15T04:47:54.634Z"
+  }
+}
