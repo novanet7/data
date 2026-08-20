@@ -1,0 +1,20 @@
+{
+  "id": 5091,
+  "email": "zals44125@gmail.com",
+  "name": "Sapri Zal",
+  "password": null,
+  "bio": "",
+  "photo": "/avatars/5091_1787244563747_38983fc3.jpg",
+  "googleId": "107753267166647953144",
+  "role": "user",
+  "createdAt": "2026-08-20T16:49:23.748Z",
+  "purchasedPanels": [],
+  "pterodactylUserId": null,
+  "balance": 0,
+  "coupon": {
+    "code": "NEW20_5091_DY7P5KQ3",
+    "used": false,
+    "discountPercent": 20,
+    "createdAt": "2026-08-20T16:49:23.748Z"
+  }
+}
