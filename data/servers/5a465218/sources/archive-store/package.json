@@ -1,0 +1,38 @@
+{
+  "name": "telegram-account-store",
+  "version": "1.2.0",
+  "description": "Single-store Telegram account marketplace with QRIS Manual and Valqenix buyer top-ups",
+  "main": "src/app.js",
+  "scripts": {
+    "setup": "node setup.js",
+    "doctor": "node scripts/doctor.js",
+    "start": "node scripts/doctor.js && node src/app.js",
+    "dev": "nodemon src/app.js",
+    "postinstall": "node scripts/postinstall.js",
+    "bootstrap": "node setup.js && node scripts/doctor.js",
+    "check": "node scripts/static-check.js && node scripts/doctor.js",
+    "pterodactyl": "node scripts/doctor.js && node src/app.js",
+    "termux": "node scripts/doctor.js && node src/app.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "joi": "^17.13.1",
+    "node-cron": "^3.0.3",
+    "rate-limiter-flexible": "^5.0.3",
+    "telegraf": "^4.16.3",
+    "uuid": "^10.0.0",
+    "winston": "^3.13.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "telegram": "^2.26.22",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
