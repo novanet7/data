@@ -1,0 +1,20 @@
+{
+  "id": 9190,
+  "email": "zannhengsut642@gmail.com",
+  "name": "Fauzan Ganteng",
+  "password": null,
+  "bio": "",
+  "photo": "/avatars/9190_1787223007401_9eb9593b.png",
+  "googleId": "110606485953844477976",
+  "role": "user",
+  "createdAt": "2026-08-20T10:50:07.411Z",
+  "purchasedPanels": [],
+  "pterodactylUserId": null,
+  "balance": 0,
+  "coupon": {
+    "code": "NEW20_9190_861RT5E8",
+    "used": false,
+    "discountPercent": 20,
+    "createdAt": "2026-08-20T10:50:07.411Z"
+  }
+}
