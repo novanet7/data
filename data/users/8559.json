@@ -38,20 +38,6 @@
       "ram": "16384 MB",
       "disk": "-",
       "cpu": "4 core"
-    },
-    {
-      "order_id": "ORDER_1787220470760_0ACFA114E1B8728E958B4DFF",
-      "panel_type": "unli",
-      "server_id": "d4305259",
-      "management_url": "/server/d4305259",
-      "username": "novanet403",
-      "password": "f3tpFxuT",
-      "created_at": "2026-08-20T10:08:15.573Z",
-      "server_name": "Server d4305259",
-      "node_version": "20",
-      "ram": "11264 MB",
-      "disk": "-",
-      "cpu": "4 core"
     }
   ],
   "pterodactylUserId": null,
