@@ -1,0 +1,16 @@
+{
+  "name": "tg-keyword-forwarder",
+  "version": "1.0.0",
+  "description": "Telegram keyword forwarder using GramJS user sessions and a Telegraf admin bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "syntax": "node --check src/index.js && node --check src/config.js && node --check src/store.js && node --check src/telegramClient.js && node --check src/adminBot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "input": "^1.0.1",
+    "telegraf": "^4.16.3",
+    "telegram": "^2.26.22"
+  }
+}
