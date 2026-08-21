@@ -188,38 +188,5 @@
       "username": "arebdg5",
       "password": "b4EgKJAS"
     }
-  },
-  {
-    "order_id": "ORDER_1787220470760_0ACFA114E1B8728E958B4DFF",
-    "email": "novanet403@gmail.com",
-    "panel_type": "unli",
-    "original_amount": 18000,
-    "discount_amount": 0,
-    "coupon_code": null,
-    "amount": 18000,
-    "totalTransfer": 18000,
-    "status": "paid",
-    "created_at": "2026-08-20T10:07:50.905Z",
-    "panel_created": true,
-    "trxId": "NVN-5c453859-a08a-43cf-b043-e053075ba68a",
-    "qrString": "00020101021226570011ID.DANA.WWW011893600915301407664102090140766410303UMI51440014ID.CO.QRIS.WWW0215ID10254555780430303UMI520442255303360540818000.005802ID5920novanet server store6015Kab. Pasaman Ba6105265676304B2D4",
-    "expiry": 1787221370905,
-    "node_version": "20",
-    "payment_method": "qris",
-    "panel_data": {
-      "success": true,
-      "serverId": "d4305259",
-      "name": "Server d4305259",
-      "nodeVersion": "20",
-      "ram": "11264 MB",
-      "disk": "-",
-      "cpu": "4 core",
-      "managementUrl": "/server/d4305259"
-    },
-    "user_data": {
-      "email": "novanet403@gmail.com",
-      "username": "novanet403",
-      "password": "f3tpFxuT"
-    }
   }
 ]
