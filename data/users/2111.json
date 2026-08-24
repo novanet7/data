@@ -1,0 +1,20 @@
+{
+  "id": 2111,
+  "email": "novanet403@gmail.com",
+  "password": "$2a$10$TQcglnAGKiFiRGdlQ1nn5eBlyrMQKn7S60M4NSboiFR.4U27Slk6a",
+  "name": "Administrator",
+  "bio": "",
+  "photo": "/avatars/2111_1787510053976_9516ff9c.jpg",
+  "role": "admin",
+  "createdAt": "2026-08-23T18:34:13.978Z",
+  "purchasedPanels": [],
+  "pterodactylUserId": null,
+  "balance": 0,
+  "coupon": {
+    "code": "NEW20_2111_ZKR78CW9",
+    "used": false,
+    "discountPercent": 20,
+    "createdAt": "2026-08-23T18:34:13.978Z"
+  },
+  "googleId": "105277321131206133402"
+}
