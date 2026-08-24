@@ -207,5 +207,24 @@
     "node_version": "20",
     "payment_method": "qris",
     "cancelled_at": "2026-08-20T06:11:40.786Z"
+  },
+  {
+    "order_id": "ORDER_1787563436208_C3F03BCE94C46EA926C3A0A6",
+    "email": "seanalindra0107@gmail.com",
+    "panel_type": "1gb",
+    "original_amount": 2000,
+    "discount_amount": 0,
+    "coupon_code": null,
+    "amount": 2000,
+    "totalTransfer": 2000,
+    "status": "cancel",
+    "created_at": "2026-08-24T09:23:56.256Z",
+    "panel_created": false,
+    "trxId": "NVN-aad46173-e992-44d6-89fa-081737e0dc42",
+    "qrString": "00020101021226570011ID.DANA.WWW011893600915301407664102090140766410303UMI51440014ID.CO.QRIS.WWW0215ID10254555780430303UMI52044225530336054072000.005802ID5920novanet server store6015Kab. Pasaman Ba6105265676304844A",
+    "expiry": 1787564336256,
+    "node_version": "20",
+    "payment_method": "qris",
+    "cancelled_at": "2026-08-24T09:39:14.254Z"
   }
 ]
