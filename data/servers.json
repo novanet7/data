@@ -49,7 +49,7 @@
     "hostPort": 23147,
     "volumePath": "/var/www/novanet/data/servers/b9da41bf",
     "startupCommand": "node index.js",
-    "status": "running",
+    "status": "stopped",
     "createdAt": "2026-08-17T12:11:38.748Z",
     "expiresAt": 1789560698748,
     "suspendedAt": "2026-08-17T12:12:02.021Z",
