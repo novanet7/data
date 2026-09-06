@@ -16,9 +16,10 @@
     "password": "$2a$10$IBdFlN8cKuV0Iq0PIQ18Au8KvjJcTmmS5YaqbxH2DusM7jm3wfo4u",
     "isAdmin": false,
     "subscription": {
-      "active": false,
-      "startDate": "",
-      "endDate": ""
+      "active": true,
+      "startDate": "2026-09-06T08:11:00.387Z",
+      "endDate": "2026-10-06T08:11:00.387Z",
+      "transactionId": "NOV-b58d7ee8-7715-4a10-8c59-e615a601f7b5"
     }
   }
 ]
