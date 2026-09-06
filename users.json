@@ -45,5 +45,16 @@
       "endDate": "2026-10-06T10:14:38.586Z",
       "transactionId": "NOV-50444866-f090-406e-b951-d688664ea040"
     }
+  },
+  {
+    "id": 848783,
+    "username": "n",
+    "password": "$2a$10$xlQuNGSqm4Hfum1PfxZxCe87AOMX.o/FKTh1iCuveoxVD1EQCJlnq",
+    "isAdmin": false,
+    "subscription": {
+      "active": false,
+      "startDate": "",
+      "endDate": ""
+    }
   }
 ]
