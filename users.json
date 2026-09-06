@@ -9,5 +9,16 @@
       "startDate": "2026-01-01T00:00:00.000Z",
       "endDate": "2099-12-31T23:59:59.999Z"
     }
+  },
+  {
+    "id": 128701,
+    "username": "novanet1",
+    "password": "$2a$10$IBdFlN8cKuV0Iq0PIQ18Au8KvjJcTmmS5YaqbxH2DusM7jm3wfo4u",
+    "isAdmin": false,
+    "subscription": {
+      "active": false,
+      "startDate": "",
+      "endDate": ""
+    }
   }
 ]
